@@ -7,8 +7,6 @@
 > 🚨  This is not a commercial project. I did it to improve my knowledge ❤
 > 
 
-🚀 [Live Demo](https://Book-store.vercel.app/)
-
 #  Tech Stack 
 Frontend
 - React  / Next.js
