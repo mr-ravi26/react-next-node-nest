@@ -1,0 +1,13 @@
+{
+  "short_name": "Book store",
+  "name": "store",
+  "lang": "en",
+  "description": "Best Place to Buy Book",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#51c2d5",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": "false"
+}
